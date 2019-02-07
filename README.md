@@ -1,2 +1,2 @@
 # token-unidirectional-audit
-Contract audit repo for machinomy toekn unidirectional payment channels 
+Contract audit repo for machinomy token unidirectional payment channels 
